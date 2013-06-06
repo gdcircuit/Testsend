@@ -1,0 +1,13 @@
+NEURON CHIP (R) Linker v3.1.009 Copyright (c) 1989, 1995 Echelon Corp
+
+2 Domains
+15 Address Table Entries
+
+1 E8 EF F0 F1 122 13 28 1414 0 15 5 3 157 4
+Z 3F e 40 E 7F r 80 R BF y 00 A 00 00
+
+System image symbol file:
+D:\LONWORKS\IMAGES\VER122\LTM10SYS.sym 7876 Mon Oct 02 04:00:58 1995
+
+Object and library file(s):
+D:\MYDATA~1\NB\TESTSEND\SEND\TESTSEND.NO 3439 Fri Aug 18 08:45:48 2000

@@ -1,0 +1,16 @@
+APC - Echelon (R) NEURON C (R) Application Compiler
+Revision 2.70
+Copyright (c) 1989, 1995  All Rights Reserved  by Echelon Corp
+Run on Fri Aug 18 08:45:47 2000
+
+File dependency information:
+S BPLATE.NS D:\LONWORKS\NEURONC\INCLUDE\BPLATE.NS 4759 Fri Oct 13 04:00:00 1995
+A D:\MYDATA~1\NB\TESTSEND\TESTSEND.NC D:\MYDATA~1\NB\TESTSEND\TESTSEND.NC 869 Fri Aug 18 08:45:32 2000
+S echelon.h D:\LONWORKS\NEURONC\INCLUDE\ECHELON.H 13274 Fri Oct 13 04:00:00 1995
+T SNVT.TYP D:\LONWORKS\TYPES\SNVT.TYP 19412 Tue Jun 08 12:35:02 1999
+End of file dependency list.
+
+Post-mortem compiler statistics:
+Total run time = 0 seconds.
+Compiler memory usage = 9492 bytes.
+Warning(s).
