@@ -1,0 +1,8 @@
+diff a/Testsend.nc b/Testsend.nc	(rejected hunks)
+@@ -15,4 +15,5 @@
+ network output polled unsigned short senddata15=15;
+ network output polled unsigned short senddata16=16;
+ 
++
+ network input unsigned short Sumdata;
+\ No newline at end of file
